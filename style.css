@@ -1,0 +1,31 @@
+body,
+html {
+  
+  font-family: 'Apple Chancery' cursive;
+  background: url(sailboat.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #FFFFFF;}
+
+ .buffer {
+  height: 6rem;
+}
+
+.container {
+	margin-top: 100px;
+}
+
+.btn-secondary {
+  background-color: #056CA4;
+  border-color: #056CA4;
+}
+.btn-secondary:hover {
+  background-color: #7DB6DA;
+  border-color:#7DB6DA;
+  border-width: 4px;
